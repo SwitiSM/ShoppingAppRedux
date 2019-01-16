@@ -1,3 +1,5 @@
+//this is a test 
+
 import React from 'react';
 import Navigator from './src/AppNavigator'
 import LoginForm from './src/screens/LoginForm';
